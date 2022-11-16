@@ -7,8 +7,7 @@
 </p>
 <hr>
 <p>I'm most comfortable in that weird, funky world between design and development—that's where the most fun, creative, boundary-breaking work happens.</p>
+<p>I'm a full-stack PHP developer (Laravel, CodeIgniter, Wordpress). I use daily: Docker, Git, SCSS, Vue and Angular...</p>
 <ul>
-<li>⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai</li>
-<li>🌱 Learning react with next.js</li>
 <li>📫 Reach me: <a href="mailto:lucas@fcinco.digital">lucas@fcinco.digital</a></li>
 </ul>
